@@ -1,0 +1,19 @@
+{
+  "name": "alpha-test-npm",
+  "version": "1.0.0",
+  "description": "Primera prueba de npm tuca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manudearagon/alpha-test-npm.git"
+  },
+  "author": "Juan Manuel de Aragon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manudearagon/alpha-test-npm/issues"
+  },
+  "homepage": "https://github.com/manudearagon/alpha-test-npm#readme"
+}
