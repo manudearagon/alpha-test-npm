@@ -7,6 +7,7 @@ const quotes = [
   "Tusunami",
   "Es la misma bandera con que hemos ‘cubrido’ tantas veces los féretros de nuestros ‘mártis’",
   "Ha llegado el fin de año, tiempo en que nos preguntamos, qué hicimos bien, qué hicimos mal, qué ‘podimos’ haber hecho mejor",
+  "Segunda publicacion",
 ];
 
 /**

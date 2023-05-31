@@ -1,6 +1,6 @@
 {
   "name": "alpha-test-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Primera prueba de npm tuca",
   "main": "index.js",
   "scripts": {
